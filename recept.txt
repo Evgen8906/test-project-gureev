@@ -1,12 +1,13 @@
-—ырники:
-“ворог
-мука
-€йцо
-сах.зам
-манка
+Sirniki:
+tvorog
+muka
+yaico
+sah.zam
+manka
 
-ќвс€нка:
-ќвс€ные хлопь€
-вода
-€блоко
-корица
+Ovsyanka:
+Ovsyanie hlopya
+voda
+yabloko
+korica
+
